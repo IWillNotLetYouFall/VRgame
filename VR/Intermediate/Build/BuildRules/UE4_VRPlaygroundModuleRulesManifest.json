@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Mike\\Desktop\\UE4_VRPlayground\\Source\\UE4_VRPlayground\\UE4_VRPlayground.Build.cs",
+		"C:\\Users\\Mike\\Desktop\\UE4_VRPlayground\\Source\\UE4_VRPlayground.Target.cs",
+		"C:\\Users\\Mike\\Desktop\\UE4_VRPlayground\\Source\\UE4_VRPlaygroundEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
