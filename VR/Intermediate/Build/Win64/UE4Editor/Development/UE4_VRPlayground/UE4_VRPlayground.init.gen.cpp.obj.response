@@ -563,9 +563,9 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I Runtime\ClothingSystemRuntimeInterface
-/I C:\Users\Mike\Desktop\UE4_VRPlayground\Intermediate\Build\Win64\UE4Editor\Inc\UE4_VRPlayground
-/I C:\Users\Mike\Desktop\UE4_VRPlayground\Source
-/I C:\Users\Mike\Desktop\UE4_VRPlayground\Source\UE4_VRPlayground
+/I T:\Git\RV\VRgame\VR\Intermediate\Build\Win64\UE4Editor\Inc\UE4_VRPlayground
+/I T:\Git\RV\VRgame\VR\Source
+/I T:\Git\RV\VRgame\VR\Source\UE4_VRPlayground
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public
 /I Runtime\AugmentedReality
@@ -597,16 +597,16 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\Mike\Desktop\UE4_VRPlayground\Intermediate\Build\Win64\UE4_VRPlaygroundEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\Mike\Desktop\UE4_VRPlayground\Intermediate\Build\Win64\UE4_VRPlaygroundEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\Mike\Desktop\UE4_VRPlayground\Intermediate\Build\Win64\UE4_VRPlaygroundEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\Mike\Desktop\UE4_VRPlayground\Intermediate\Build\Win64\UE4Editor\Inc\UE4_VRPlayground\UE4_VRPlayground.init.gen.cpp"
-/FI"C:\Users\Mike\Desktop\UE4_VRPlayground\Intermediate\Build\Win64\UE4Editor\Development\UE4_VRPlayground\Definitions.UE4_VRPlayground.h"
-/Fo"C:\Users\Mike\Desktop\UE4_VRPlayground\Intermediate\Build\Win64\UE4Editor\Development\UE4_VRPlayground\UE4_VRPlayground.init.gen.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
+/FI"T:\Git\RV\VRgame\VR\Intermediate\Build\Win64\UE4_VRPlaygroundEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"T:\Git\RV\VRgame\VR\Intermediate\Build\Win64\UE4_VRPlaygroundEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"T:\Git\RV\VRgame\VR\Intermediate\Build\Win64\UE4_VRPlaygroundEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"T:\Git\RV\VRgame\VR\Intermediate\Build\Win64\UE4Editor\Inc\UE4_VRPlayground\UE4_VRPlayground.init.gen.cpp"
+/FI"T:\Git\RV\VRgame\VR\Intermediate\Build\Win64\UE4Editor\Development\UE4_VRPlayground\Definitions.UE4_VRPlayground.h"
+/Fo"T:\Git\RV\VRgame\VR\Intermediate\Build\Win64\UE4Editor\Development\UE4_VRPlayground\UE4_VRPlayground.init.gen.cpp.obj"
 /TP
 /GR-
 /W4

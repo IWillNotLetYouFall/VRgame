@@ -14,8 +14,8 @@ class UMotionControllerComponent;
 #endif
 #define UE4_VRPLAYGROUND_PickupInterface_generated_h
 
-#define UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_13_SPARSE_DATA
-#define UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_13_RPC_WRAPPERS \
+#define VR_Source_UE4_VRPlayground_PickupInterface_h_13_SPARSE_DATA
+#define VR_Source_UE4_VRPlayground_PickupInterface_h_13_RPC_WRAPPERS \
 	virtual void Drop_Implementation(UMotionControllerComponent* MotionController) {}; \
 	virtual void Pickup_Implementation(UMotionControllerComponent* MotionController) {}; \
  \
@@ -23,7 +23,7 @@ class UMotionControllerComponent;
 	DECLARE_FUNCTION(execPickup);
 
 
-#define UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+#define VR_Source_UE4_VRPlayground_PickupInterface_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
 	virtual void Drop_Implementation(UMotionControllerComponent* MotionController) {}; \
 	virtual void Pickup_Implementation(UMotionControllerComponent* MotionController) {}; \
  \
@@ -31,7 +31,7 @@ class UMotionControllerComponent;
 	DECLARE_FUNCTION(execPickup);
 
 
-#define UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_13_EVENT_PARMS \
+#define VR_Source_UE4_VRPlayground_PickupInterface_h_13_EVENT_PARMS \
 	struct PickupInterface_eventDrop_Parms \
 	{ \
 		UMotionControllerComponent* MotionController; \
@@ -42,8 +42,8 @@ class UMotionControllerComponent;
 	};
 
 
-#define UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_13_CALLBACK_WRAPPERS
-#define UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_13_STANDARD_CONSTRUCTORS \
+#define VR_Source_UE4_VRPlayground_PickupInterface_h_13_CALLBACK_WRAPPERS
+#define VR_Source_UE4_VRPlayground_PickupInterface_h_13_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	UE4_VRPLAYGROUND_API UPickupInterface(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UPickupInterface) \
@@ -56,7 +56,7 @@ private: \
 public:
 
 
-#define UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_13_ENHANCED_CONSTRUCTORS \
+#define VR_Source_UE4_VRPlayground_PickupInterface_h_13_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	UE4_VRPLAYGROUND_API UPickupInterface(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -69,7 +69,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UPickupInterface); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UPickupInterface)
 
 
-#define UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_13_GENERATED_UINTERFACE_BODY() \
+#define VR_Source_UE4_VRPlayground_PickupInterface_h_13_GENERATED_UINTERFACE_BODY() \
 private: \
 	static void StaticRegisterNativesUPickupInterface(); \
 	friend struct Z_Construct_UClass_UPickupInterface_Statics; \
@@ -78,22 +78,22 @@ public: \
 	DECLARE_SERIALIZER(UPickupInterface)
 
 
-#define UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_13_GENERATED_BODY_LEGACY \
+#define VR_Source_UE4_VRPlayground_PickupInterface_h_13_GENERATED_BODY_LEGACY \
 		PRAGMA_DISABLE_DEPRECATION_WARNINGS \
-	UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_13_GENERATED_UINTERFACE_BODY() \
-	UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_13_STANDARD_CONSTRUCTORS \
+	VR_Source_UE4_VRPlayground_PickupInterface_h_13_GENERATED_UINTERFACE_BODY() \
+	VR_Source_UE4_VRPlayground_PickupInterface_h_13_STANDARD_CONSTRUCTORS \
 	PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_13_GENERATED_BODY \
+#define VR_Source_UE4_VRPlayground_PickupInterface_h_13_GENERATED_BODY \
 	PRAGMA_DISABLE_DEPRECATION_WARNINGS \
-	UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_13_GENERATED_UINTERFACE_BODY() \
-	UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_13_ENHANCED_CONSTRUCTORS \
+	VR_Source_UE4_VRPlayground_PickupInterface_h_13_GENERATED_UINTERFACE_BODY() \
+	VR_Source_UE4_VRPlayground_PickupInterface_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 	PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_13_INCLASS_IINTERFACE_NO_PURE_DECLS \
+#define VR_Source_UE4_VRPlayground_PickupInterface_h_13_INCLASS_IINTERFACE_NO_PURE_DECLS \
 protected: \
 	virtual ~IPickupInterface() {} \
 public: \
@@ -104,7 +104,7 @@ public: \
 	virtual UObject* _getUObject() const { check(0 && "Missing required implementation."); return nullptr; }
 
 
-#define UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_13_INCLASS_IINTERFACE \
+#define VR_Source_UE4_VRPlayground_PickupInterface_h_13_INCLASS_IINTERFACE \
 protected: \
 	virtual ~IPickupInterface() {} \
 public: \
@@ -115,28 +115,28 @@ public: \
 	virtual UObject* _getUObject() const { check(0 && "Missing required implementation."); return nullptr; }
 
 
-#define UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_10_PROLOG \
-	UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_13_EVENT_PARMS
+#define VR_Source_UE4_VRPlayground_PickupInterface_h_10_PROLOG \
+	VR_Source_UE4_VRPlayground_PickupInterface_h_13_EVENT_PARMS
 
 
-#define UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_21_GENERATED_BODY_LEGACY \
+#define VR_Source_UE4_VRPlayground_PickupInterface_h_21_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_13_SPARSE_DATA \
-	UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_13_RPC_WRAPPERS \
-	UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_13_CALLBACK_WRAPPERS \
-	UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_13_INCLASS_IINTERFACE \
+	VR_Source_UE4_VRPlayground_PickupInterface_h_13_SPARSE_DATA \
+	VR_Source_UE4_VRPlayground_PickupInterface_h_13_RPC_WRAPPERS \
+	VR_Source_UE4_VRPlayground_PickupInterface_h_13_CALLBACK_WRAPPERS \
+	VR_Source_UE4_VRPlayground_PickupInterface_h_13_INCLASS_IINTERFACE \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_21_GENERATED_BODY \
+#define VR_Source_UE4_VRPlayground_PickupInterface_h_21_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_13_SPARSE_DATA \
-	UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
-	UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_13_CALLBACK_WRAPPERS \
-	UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h_13_INCLASS_IINTERFACE_NO_PURE_DECLS \
+	VR_Source_UE4_VRPlayground_PickupInterface_h_13_SPARSE_DATA \
+	VR_Source_UE4_VRPlayground_PickupInterface_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	VR_Source_UE4_VRPlayground_PickupInterface_h_13_CALLBACK_WRAPPERS \
+	VR_Source_UE4_VRPlayground_PickupInterface_h_13_INCLASS_IINTERFACE_NO_PURE_DECLS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -144,7 +144,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> UE4_VRPLAYGROUND_API UClass* StaticClass<class UPickupInterface>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID UE4_VRPlayground_Source_UE4_VRPlayground_PickupInterface_h
+#define CURRENT_FILE_ID VR_Source_UE4_VRPlayground_PickupInterface_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
