@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"T:\\Git\\RV\\VRgame\\VR\\Source\\UE4_VRPlayground\\UE4_VRPlayground.Build.cs",
-		"T:\\Git\\RV\\VRgame\\VR\\Source\\UE4_VRPlayground.Target.cs",
-		"T:\\Git\\RV\\VRgame\\VR\\Source\\UE4_VRPlaygroundEditor.Target.cs"
-	],
-	"EngineVersion": "4.26.2"
-}
