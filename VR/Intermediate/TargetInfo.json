@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UE4_VRPlayground",
+			"Path": "T:\\Git\\RV\\VRgame\\VR\\Source\\UE4_VRPlayground.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UE4_VRPlaygroundEditor",
+			"Path": "T:\\Git\\RV\\VRgame\\VR\\Source\\UE4_VRPlaygroundEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
