@@ -1382,3 +1382,16 @@ It is recommended that you free some space to avoid issues such as crashed and d
 [2022.04.12-23.28.44:648][931]SocketIO: SocketIO Invalid appears to have lost connection, reconnecting attempt 5 with delay 25000
 [2022.04.12-23.29.13:848][845]SocketIO: SocketIO Invalid appears to have lost connection, reconnecting attempt 6 with delay 25000
 [2022.04.12-23.29.42:978][932]SocketIO: SocketIO Invalid appears to have lost connection, reconnecting attempt 7 with delay 25000
+[2022.04.12-23.30.12:130][ 19]SocketIO: SocketIO Invalid appears to have lost connection, reconnecting attempt 8 with delay 25000
+[2022.04.12-23.30.26:124][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.12-23.30.26:124][ 94]LogWorld: BeginTearingDown for /Game/VRPlayground/PaintingCanvas/UEDPIE_0_DrawOnCanvas
+[2022.04.12-23.30.26:124][ 94]LogSlate: Window 'UE4_VRPlayground Preview [NetMode: Standalone]  (64-bit/SM5) SteamVR 5.0.0-19505902+++UE5+Release-5.0, Driver: oculus, Serial: 1WMHHA60932015, HMD Device: Oculus Oculus Quest2, Driver version: 1.70.0' being destroyed
+[2022.04.12-23.30.26:184][ 94]LogWorld: UWorld::CleanupWorld for DrawOnCanvas, bSessionEnded=true, bCleanupResources=true
+[2022.04.12-23.30.26:185][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.12-23.30.26:203][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.12-23.30.26:217][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.12-23.30.26:277][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.04.12-23.30.26:280][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.04.12-23.30.26:289][ 94]SocketIO: SocketIO None disconnected from namespace: /
+[2022.04.12-23.30.26:289][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.04.12-23.30.26:384][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_13
