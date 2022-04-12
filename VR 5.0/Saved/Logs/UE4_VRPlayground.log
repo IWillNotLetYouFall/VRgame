@@ -3015,3 +3015,5 @@ Make sure 'DrawOnCanvas_C' has been compiled for  Get Initial_position
 [2022.04.12-22.11.25:224][126]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.453
 [2022.04.12-22.12.54:916][394]LogCore: Display: AppLifetime: Application will enter background
 [2022.04.12-22.12.55:252][395]LogCore: Display: AppLifetime: Application has entered foreground
+[2022.04.12-22.16.29:977][658]LogEditorTransaction: Undo Change Object Pin Value
+[2022.04.12-22.16.58:497][690]LogEditorTransaction: Undo Change Object Pin Value
