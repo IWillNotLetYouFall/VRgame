@@ -1,0 +1,18 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Matis_CAFFIAUX\\Documents\\Dev_Lab\\Unreal\\VRgame\\VR 5.0\\Source\\UE4_VRPlayground\\UE4_VRPlayground.Build.cs",
+		"C:\\Users\\Matis_CAFFIAUX\\Documents\\Dev_Lab\\Unreal\\VRgame\\VR 5.0\\Plugins\\MachineLearningRemote-Unreal\\Source\\MachineLearningBase\\MachineLearningBase.Build.cs",
+		"C:\\Users\\Matis_CAFFIAUX\\Documents\\Dev_Lab\\Unreal\\VRgame\\VR 5.0\\Plugins\\MachineLearningRemote-Unreal\\Source\\MachineLearningRemote\\MachineLearningRemote.Build.cs",
+		"C:\\Users\\Matis_CAFFIAUX\\Documents\\Dev_Lab\\Unreal\\VRgame\\VR 5.0\\Plugins\\MachineLearningRemote-Unreal\\Source\\MLProcess\\MLProcess.Build.cs",
+		"C:\\Users\\Matis_CAFFIAUX\\Documents\\Dev_Lab\\Unreal\\VRgame\\VR 5.0\\Plugins\\SocketIOClient-Unreal\\Source\\CoreUtility\\CoreUtility.Build.cs",
+		"C:\\Users\\Matis_CAFFIAUX\\Documents\\Dev_Lab\\Unreal\\VRgame\\VR 5.0\\Plugins\\SocketIOClient-Unreal\\Source\\SIOJson\\SIOJson.Build.cs",
+		"C:\\Users\\Matis_CAFFIAUX\\Documents\\Dev_Lab\\Unreal\\VRgame\\VR 5.0\\Plugins\\SocketIOClient-Unreal\\Source\\SIOJEditorPlugin\\SIOJEditorPlugin.Build.cs",
+		"C:\\Users\\Matis_CAFFIAUX\\Documents\\Dev_Lab\\Unreal\\VRgame\\VR 5.0\\Plugins\\SocketIOClient-Unreal\\Source\\SocketIOClient\\SocketIOClient.Build.cs",
+		"C:\\Users\\Matis_CAFFIAUX\\Documents\\Dev_Lab\\Unreal\\VRgame\\VR 5.0\\Plugins\\SocketIOClient-Unreal\\Source\\SocketIOLib\\SocketIOLib.Build.cs",
+		"C:\\Users\\Matis_CAFFIAUX\\Documents\\Dev_Lab\\Unreal\\VRgame\\VR 5.0\\Plugins\\TensorFlow-Unreal\\Source\\TensorFlow\\TensorFlow.Build.cs",
+		"C:\\Users\\Matis_CAFFIAUX\\Documents\\Dev_Lab\\Unreal\\VRgame\\VR 5.0\\Plugins\\TensorFlow-Unreal\\Source\\TFAudioCapture\\TFAudioCapture.Build.cs",
+		"C:\\Users\\Matis_CAFFIAUX\\Documents\\Dev_Lab\\Unreal\\VRgame\\VR 5.0\\Source\\UE4_VRPlayground.Target.cs",
+		"C:\\Users\\Matis_CAFFIAUX\\Documents\\Dev_Lab\\Unreal\\VRgame\\VR 5.0\\Source\\UE4_VRPlaygroundEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.0"
+}

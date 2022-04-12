@@ -1,0 +1,30 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\matis_caffiaux\\documents\\dev_lab\\unreal\\vrgame\\vr 5.0\\source\\ue4_vrplayground\\pickup.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\matis_caffiaux\\documents\\dev_lab\\unreal\\vrgame\\vr 5.0\\intermediate\\build\\win64\\ue4_vrplaygroundeditor\\development\\engine\\sharedpch.engine.h.pch",
+        "Includes": [
+            "c:\\users\\matis_caffiaux\\documents\\dev_lab\\unreal\\vrgame\\vr 5.0\\intermediate\\build\\win64\\unrealeditor\\development\\ue4_vrplayground\\definitions.ue4_vrplayground.h",
+            "c:\\users\\matis_caffiaux\\documents\\dev_lab\\unreal\\vrgame\\vr 5.0\\source\\ue4_vrplayground\\pickup.h",
+            "c:\\users\\matis_caffiaux\\documents\\dev_lab\\unreal\\vrgame\\vr 5.0\\source\\ue4_vrplayground\\pickupinterface.h",
+            "c:\\users\\matis_caffiaux\\documents\\dev_lab\\unreal\\vrgame\\vr 5.0\\intermediate\\build\\win64\\unrealeditor\\inc\\ue4_vrplayground\\pickupinterface.generated.h",
+            "c:\\users\\matis_caffiaux\\documents\\dev_lab\\unreal\\vrgame\\vr 5.0\\intermediate\\build\\win64\\unrealeditor\\inc\\ue4_vrplayground\\pickup.generated.h",
+            "d:\\unrealengine\\ue_5.0\\engine\\source\\runtime\\headmounteddisplay\\public\\motioncontrollercomponent.h",
+            "d:\\unrealengine\\ue_5.0\\engine\\source\\runtime\\engine\\public\\sceneviewextension.h",
+            "d:\\unrealengine\\ue_5.0\\engine\\source\\runtime\\engine\\public\\sceneviewextensioncontext.h",
+            "d:\\unrealengine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\sceneviewextensioncontext.generated.h",
+            "d:\\unrealengine\\ue_5.0\\engine\\source\\runtime\\headmounteddisplay\\public\\imotioncontroller.h",
+            "d:\\unrealengine\\ue_5.0\\engine\\source\\runtime\\headmounteddisplay\\public\\lateupdatemanager.h",
+            "d:\\unrealengine\\ue_5.0\\engine\\source\\runtime\\headmounteddisplay\\public\\iidentifiablexrdevice.h",
+            "d:\\unrealengine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\headmounteddisplay\\iidentifiablexrdevice.generated.h",
+            "d:\\unrealengine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\headmounteddisplay\\motioncontrollercomponent.generated.h",
+            "d:\\unrealengine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "d:\\unrealengine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\unrealengine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "d:\\unrealengine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\boxcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

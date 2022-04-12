@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.ue4_vrplayground-19505902.unrealeditor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/Matis_CAFFIAUX/Documents/Dev_Lab/Unreal/VRgame/VR 5.0/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "UE4_VRPlayground-19505902 [UE Editor]"
+				}
+			}
+		}
+	]
+}

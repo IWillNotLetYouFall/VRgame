@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UE4_VRPlayground.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Matis_CAFFIAUX\Documents\Dev_Lab\Unreal\VRgame\VR 5.0\Intermediate\Build\Win64\UE4_VRPlaygroundEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Matis_CAFFIAUX\Documents\Dev_Lab\Unreal\VRgame\VR 5.0\Intermediate\Build\Win64\UnrealEditor\Development\UE4_VRPlayground\Pickup.cpp.obj"
+"C:\Users\Matis_CAFFIAUX\Documents\Dev_Lab\Unreal\VRgame\VR 5.0\Intermediate\Build\Win64\UnrealEditor\Development\UE4_VRPlayground\PickupInterface.cpp.obj"
+"C:\Users\Matis_CAFFIAUX\Documents\Dev_Lab\Unreal\VRgame\VR 5.0\Intermediate\Build\Win64\UnrealEditor\Development\UE4_VRPlayground\UE4_VRPlayground.cpp.obj"
+"C:\Users\Matis_CAFFIAUX\Documents\Dev_Lab\Unreal\VRgame\VR 5.0\Intermediate\Build\Win64\UnrealEditor\Development\UE4_VRPlayground\Pickup.gen.cpp.obj"
+"C:\Users\Matis_CAFFIAUX\Documents\Dev_Lab\Unreal\VRgame\VR 5.0\Intermediate\Build\Win64\UnrealEditor\Development\UE4_VRPlayground\PickupInterface.gen.cpp.obj"
+"C:\Users\Matis_CAFFIAUX\Documents\Dev_Lab\Unreal\VRgame\VR 5.0\Intermediate\Build\Win64\UnrealEditor\Development\UE4_VRPlayground\UE4_VRPlayground.init.gen.cpp.obj"
+"C:\Users\Matis_CAFFIAUX\Documents\Dev_Lab\Unreal\VRgame\VR 5.0\Intermediate\Build\Win64\UnrealEditor\Development\UE4_VRPlayground\Default.rc2.res"
+/OUT:"C:\Users\Matis_CAFFIAUX\Documents\Dev_Lab\Unreal\VRgame\VR 5.0\Intermediate\Build\Win64\UnrealEditor\Development\UE4_VRPlayground\UnrealEditor-UE4_VRPlayground.lib"
